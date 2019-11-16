@@ -1,0 +1,14 @@
+D:\Repo\AlexaJA\alexa\alexa\alexa\bin\Debug\netcoreapp2.1\alexa.deps.json
+D:\Repo\AlexaJA\alexa\alexa\alexa\bin\Debug\netcoreapp2.1\alexa.runtimeconfig.json
+D:\Repo\AlexaJA\alexa\alexa\alexa\bin\Debug\netcoreapp2.1\alexa.runtimeconfig.dev.json
+D:\Repo\AlexaJA\alexa\alexa\alexa\bin\Debug\netcoreapp2.1\alexa.dll
+D:\Repo\AlexaJA\alexa\alexa\alexa\bin\Debug\netcoreapp2.1\alexa.pdb
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.csprojAssemblyReference.cache
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.csproj.CoreCompileInputs.cache
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.RazorAssemblyInfo.cache
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.RazorAssemblyInfo.cs
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.AssemblyInfoInputs.cache
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.AssemblyInfo.cs
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.RazorTargetAssemblyInfo.cache
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.dll
+D:\Repo\AlexaJA\alexa\alexa\alexa\obj\Debug\netcoreapp2.1\alexa.pdb
