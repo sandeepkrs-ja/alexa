@@ -15,3 +15,5 @@ variables:
 steps:
 - script: dotnet build alexa/alexa/alexa.csproj --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
+
+- task: PublishBuildArtifacts@1
