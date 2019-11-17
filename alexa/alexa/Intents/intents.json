@@ -1,0 +1,8 @@
+{
+  "DefaultIntent": "Thanks for trying quick answer, how can I help you today?",
+  "AccountCancellationIntent": "I am so sorry to hear that. Can you please provide the reason for cancellation?",
+  "CancellationReasonIntent": "I am so sorry that you are not fully happy with our services. Initiating the cancellation, subscription will be cancelled in 5 working days",
+  "RefundReasonIntent": "Extremely sorry about that. Please be assured you will receive a refund in 5 working days",
+  "TitleIntent": "Can you please elaborate the question, so the experts can clearly understand and provide a suitable answer?",
+  "QuestionIntent": "Your question is posted. We will let you know as soon as an expert has provided an answer. Thank you for using quick answer, have a wonderful day"
+}
